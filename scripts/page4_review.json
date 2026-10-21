@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Based on the image provided, here is the verification of the document:\n\n1.  **Layout:** Yes, the layout is **clean and professional**. It uses a standard academic format with clear headers, consistent spacing, and legible typography (likely Times New Roman or similar).\n2.  **Formatting:** Yes, the course descriptions are **well-formatted**. Each entry correctly includes:\n    *   **Course Code & Title** (e.g., MTH104 – Calculus and Analytic Geometry)\n    *   **Metadata Line** (Credits, Grade, Points, Semester)\n    *   **Details Line** (Type, Format, Assessment breakdown)\n    *   **Description Text** (Paragraph form)\n    *   **Key Topics** (Bulleted list)\n3.  **Visible Issues:** There are **no visible issues**. The text fits well within the margins, there is no overflow or broken text, and the spacing between sections and bullet points is consistent and appropriate.\n\n**Conclusion:** The page appears to be perfectly formatted and free of errors.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1792579518,
+  "id": "2026102118451364beca8db0d04404",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "2026102118451364beca8db0d04404",
+  "usage": {
+    "completion_tokens": 218,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 853,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 1071
+  }
+}

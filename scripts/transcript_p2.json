@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "**EXPLANATORY NOTES**\n\n1. The following explanations are to assist the reader with the interpretation of the transcript.\n2. The Academic year normally comprises two regular semesters i.e. (16 weeks each) and summer session (8 weeks).\n3. English is the medium of instruction.\n\n4. **Legend**\n   * Cr. Credit of Courses\n   * GP Grade Point\n   * L.G. Letter Grade\n   * CGPA Cumulative Grade Point Average\n   * NC Non Credit\n   * WD Withdrawal\n   * \\*IP In Progress\n     \\*Awarded in the first semester (generally of split semester course) and/or subsequent semesters if the performance of the student was satisfactory. Has no grading and/or credit value for result calculation purpose.\n\n5. **Credit Value Definition**\n   A course of one credit represents one hour of lecture / three hours laboratory work per week, per semester.\n\n6. **Discounted Credit Hours**\n   In case of course is repeated due to failure or improvement, its credit hours are counted only once, hence the term \"discounted credit hours\".\n\n7. **Marks**\n   a. Each course carries 100 marks of which 50% are reserved for mid term, quizzes, assignments, practicals & 50% marks for the terminal examinations.\n   b. Minimum pass marks in each course are 50%.\n\n8. **Grading System**\n\n| Percentage Obtained in a Semester System | Grade | Grade Points |\n| :--- | :--- | :--- |\n| 85 and Above | A | 4.00 |\n| 80 - 84 | A- | 3.66 |\n| 75 - 79 | B+ | 3.33 |\n| 71 - 74 | B | 3.00 |\n| 68 - 70 | B- | 2.66 |\n| 64 - 67 | C+ | 2.33 |\n| 61 - 63 | C | 2.00 |\n| 58 - 60 | C- | 1.66 |\n| 54 - 57 | D+ | 1.30 |\n| 50 - 53 | D | 1.00 |\n| Below 50 | F | 0.00 |\n\nNote: This Transcript is issued without alteration or erasure.\n\nPrepared By: ________________________ Checked By: ________________________\n\nContact Address:\nCOMSATS University Islamabad,\nPark Road, Tarlai Kalan, Islamabad.\nPh: +92-51-9247000-3\nhttp://www.comsats.edu.pk\n\n---\n\n**[Stamp/Seal Information]**\n*   **Text inside Blue Stamp:** Syed Muhammad Ali Abbas, Assistant Director (Attestation)\n*   **Date on Stamp:** 04 MAY 2026\n*   **Institution on Stamp:** Higher Education Commission, Government of Pakistan, Regional Centre, Lahore\n*   **Handwritten Note on Stamp:** Rs.100/- (or similar)\n*   **HEC Logo:** Present\n*   **Barcode Number:** 4508910\n*   **Vertical Text:** ATTESTED",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1792579092,
+  "id": "2026102118375526843fcf4de54c93",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "2026102118375526843fcf4de54c93",
+  "usage": {
+    "completion_tokens": 648,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5164,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 5812
+  }
+}

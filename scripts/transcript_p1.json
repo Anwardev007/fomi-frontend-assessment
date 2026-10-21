@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "**COMSATS University Islamabad**\n**TRANSCRIPT**\n\n0124660\n\nDate: 06-Mar-2026\n\nCertified that **MUHAMMAD ANWAR** s/o **NAZEER AHMAD** Registration No. **CIIT/SP22-BSE-023/SWL** Department of Computer Science has completed and passed all the requisite courses / examinations for the degree of **Bachelor of Science in Software Engineering**, on 16th January 2026, taught as a Regular Mode of study from Sahiwal Campus.\nDate of Birth : 15-Oct-2000\n\nThe details of the courses passed are as follows:\n\n| Course Code | Semester / Course Title | Cr. | LG | CP | Course Code | Semester / Course Title | Cr. | LG | CP |\n| :--- | :--- | :---: | :---: | :---: | :--- | :--- | :---: | :---: | :---: |\n| | **Spring 2022** | | | | | **Spring 2024** | | | |\n| CSC101 | Introduction to ICT | 3 | A | 12.00 | CSC270 | Database Systems | 4 | A- | 14.64 |\n| HUM100 | English Comprehension and Composition | 3 | A- | 10.98 | CSC323 | Principles of Operating Systems | 4 | A | 16.00 |\n| HUM110 | Islamic Studies | 3 | A- | 10.98 | CSC461 | Introduction to Data Science | 3 | A | 12.00 |\n| HUM111 | Pakistan Studies | 3 | A | 12.00 | CSE305 | Software Requirement Engineering | 3 | A | 12.00 |\n| PHY121 | Applied Physics for Engineers | 4 | A | 16.00 | CSE325 | Software Construction and Development | 3 | B+ | 9.99 |\n| | | | | | CSE356 | Formal Methods | 3 | A | 12.00 |\n| | **Fall 2022** | | | | | **Fall 2024** | | | |\n| CSC102 | Discrete Structures | 3 | A | 12.00 | CSC303 | Mobile Application Development | 3 | B+ | 9.99 |\n| CSC103 | Programming Fundamentals | 4 | A- | 14.64 | CSC336 | Web Technologies | 3 | A | 12.00 |\n| CSC291 | Software Engineering Concepts | 3 | A | 12.00 | CSC462 | Artificial Intelligence | 4 | A- | 14.64 |\n| CSC410 | Professional Practices | 3 | A | 12.00 | CSE494 | Software Project Management | 3 | A- | 10.98 |\n| HUM103 | Communication Skills | 3 | A | 12.00 | MGT100 | Introduction to Business | 3 | C+ | 6.99 |\n| | | | | | MTH467 | Operations Research | 3 | B+ | 9.99 |\n| | **Spring 2023** | | | | | **Spring 2025** | | | |\n| CSC241 | Object Oriented Programming | 4 | A | 16.00 | CSC356 | Human Computer Interaction | 3 | B+ | 9.99 |\n| CSE302 | Software Quality Engineering | 3 | B+ | 9.97 | CSE422 | Information Security | 3 | A | 12.00 |\n| MGT101 | Introduction to Management | 3 | A | 12.00 | CSE454 | Design Patterns | 3 | B+ | 9.99 |\n| MTH104 | Calculus and Analytic Geometry | 3 | A | 12.00 | CSE458 | Senior Design Project I | 2 | A- | 7.32 |\n| MTH251 | Linear Algebra | 3 | A | 12.00 | MGY320 | Introduction to Sociology | 3 | B+ | 9.99 |\n| | | | | | MGY359 | Human Resource Management | 3 | B+ | 9.99 |\n| | **Fall 2023** | | | | | **Fall 2025** | | | |\n| CSC211 | Data Structures and Algorithms | 4 | A | 16.00 | CSC455 | Computer Vision | 3 | A- | 10.98 |\n| CSC340 | Computer Networks | 4 | A- | 14.64 | CSE327 | Software Re-Engineering | 3 | B+ | 9.99 |\n| CSE303 | Software Design and Architecture | 3 | A | 12.00 | CSE357 | Business Process Engineering | 3 | B+ | 9.99 |\n| HUM102 | Report Writing Skills | 3 | A- | 10.98 | CSE499 | Senior Design Project II | 4 | A | 16.00 |\n| MTH262 | Statistics and Probability Theory | 3 | A | 12.00 | | | | | |\n\nTotal Credit Hours Registered: 134\n* Discounted Credit Hours: 0\nNet Credit Hours Passed: 134\nTotal CP: 499.67\nCGPA: 3.73\n\nFollowing courses were passed as N.C:\n| Course Code | Course Title |\n| :--- | :--- |\n| MTH100 | Mathematics I |\n| MTH101 | Calculus I |\n\n[Signature]\nController of Examinations\n\n[Seal]\n\n*Error Omissions Excepted*\n(Please Turn Over)",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1792579075,
+  "id": "20261021183726f49ea98d39864643",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "20261021183726f49ea98d39864643",
+  "usage": {
+    "completion_tokens": 1229,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 5160,
+    "prompt_tokens_details": {
+      "cached_tokens": 0
+    },
+    "total_tokens": 6389
+  }
+}
