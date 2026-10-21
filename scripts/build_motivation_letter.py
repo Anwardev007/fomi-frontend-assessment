@@ -246,7 +246,7 @@ def build_letter():
         sig_detail_style))
     story.append(Paragraph(
         "Email: anwar.applicant.rptu@example.com &nbsp;&bull;&nbsp; "
-        "Phone: +92 300 0000000",
+        "Phone: +92 344 4336142",
         sig_detail_style))
 
     return story
