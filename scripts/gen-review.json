@@ -1,0 +1,28 @@
+{
+  "choices": [
+    {
+      "finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "content": "Based on the provided screenshot of the Fomi AI workspace, here is the verification:\n\n1.  **Are 4 image variants visible in a grid?**\n    **Partially.** The interface shows a \"Canvas\" area with a **2x2 grid layout** (indicated by the numbers 1 and 2 on the visible cards). However, only **2 of the 4 variants are fully visible** in this view; the bottom row appears to be cut off or requires scrolling to see.\n\n2.  **Are hover actions (upscale/download/delete) visible?**\n    **No.** The image cards currently display metadata overlays (aesthetic/adherence scores) and seed information at the bottom. There are no visible icons or buttons for upscaling, downloading, or deleting. These actions are likely hidden and only appear when the user hovers their mouse over an image card.\n\n3.  **Does the history sidebar show the generation?**\n    **Yes.** The left sidebar under \"History\" displays a thumbnail with the text \"A majestic phoenix rising from cosmic...\", confirming that the current session is recorded there.\n\n4.  **Any layout issues?**\n    **Yes.** There is a **\"1 Issue\" notification** active in the bottom-left corner (red badge). Additionally, a success toast message (\"Generated 4 variants\") is overlapping the bottom-right corner of the second image variant, slightly obstructing the view.",
+        "role": "assistant"
+      }
+    }
+  ],
+  "created": 1792988731,
+  "id": "2026102612252508770adde64b4678",
+  "model": "glm-5v-turbo",
+  "object": "chat.completion",
+  "request_id": "2026102612252508770adde64b4678",
+  "usage": {
+    "completion_tokens": 294,
+    "completion_tokens_details": {
+      "reasoning_tokens": 0
+    },
+    "prompt_tokens": 1737,
+    "prompt_tokens_details": {
+      "cached_tokens": 2
+    },
+    "total_tokens": 2031
+  }
+}
